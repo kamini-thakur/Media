@@ -1,0 +1,43 @@
+v.1.0.5
+-Empty google font dropdown fix
+-Easy Social Share Buttons updated to 5.4
+-Visual Composer updated to 5.4.7
+
+v.1.0.4.1
+-Visual Composer updated version (5.4.5) fix
+
+v.1.0.4
+-Demo import button positioning fix
+-Visual Composer updated to 5.4.5
+
+v.1.0.3.2
+-Easy Social Share Buttons updated to 5.2.1
+-Fix for overlay sidebar causing page load delays on Android mobile devices
+
+v.1.0.3.1
+-Colorpicker fix for WordPress 4.9 
+
+v.1.0.3
+-object-fit fix for Edge browser in Windows Fall Creators update 
+-Mag | Theme Core Extend updated to 1.0.3
+-Visual Composer updated to 5.4.4
+-Easy Social Share Buttons updated to 5.2
+
+v.1.0.2
+-Filter loading performance improvement in article elements
+-Mag | Theme Core Extend updated to 1.0.2
+-Visual Composer updated to 5.4.2
+-Easy Social Share Buttons updated to 5.1
+
+v.1.0.1
+-New post slider element
+-Disabling sticky sidebar now also has effect on post content sidebar
+-Search form for mobile menu sidebar restyled
+-Fix for search forms in full width header mode
+-Demo content updated with new post slider homepage
+-Mag | Theme Core Extend updated to 1.0.1
+-Visual Composer updated to 5.3
+-Easy Social Share Buttons updated to 5.0.1
+
+v.1.0
+-Initial release
